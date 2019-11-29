@@ -7,10 +7,10 @@ highlighter:         pygments
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+timezone:            Europe/Amsterdam # eg. Asia/Kathmandu
+locale:              en_us # eg. en_us
 name:				         site name
-title:               site title
+title:               Maxim's FooFlow
 tagline:             'tagline'
 description:         'description'
 url:                 site url
@@ -24,7 +24,7 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Maxim Velli
   url:            	 your site url
   facebook:          username
   twitter:           username
