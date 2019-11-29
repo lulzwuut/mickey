@@ -9,7 +9,7 @@ permalink:           /:title
 # Setup
 timezone:            Europe/Amsterdam # eg. Asia/Kathmandu
 locale:              en_us # eg. en_us
-name:				         site name
+name:				         Maxim's FooFlow
 title:               Maxim's FooFlow
 tagline:             'tagline'
 description:         'description'
