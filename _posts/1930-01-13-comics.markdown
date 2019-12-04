@@ -4,7 +4,7 @@ title:  "Comics"
 date:   1930-01-13 01:00:00
 date:   1930-01-13 01:00:00
 excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
-categories: history
+categories: photography
 tags:  mickey
 image:
   feature: mickey-comics.jpg
