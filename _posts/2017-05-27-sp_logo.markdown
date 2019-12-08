@@ -9,7 +9,7 @@ url: 'sp_logo'
 tags:  design, logo, geometry
 image:
   feature: design.jpg
-  topPosition: +100px
+  topPosition: -700px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
