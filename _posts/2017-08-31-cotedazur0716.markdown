@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Cote d'Azur Summer 2016"
+date:   2017-08-31 01:00:00
+last_modified_at:  2017-08-31 01:00:00
+excerpt: ""
+categories: photography
+url: 'сotedazur16'
+tags:  france, cote d'azur, photography
+image:
+  feature: cotedazur16.jpg
+  topPosition: +100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+
+<div style="left: 0; width: 100%; height: 100vh; position: relative;"><iframe src="https://www.behance.net/gallery/89189527/Cote-dAzur-Summer-2016?iframe=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+
+
