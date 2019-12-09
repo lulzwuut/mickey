@@ -16,6 +16,6 @@ syntaxHighlighter: no
 ---
 
 
-<div style="left: 0; width: 100%; height: 100vh; position: relative; padding-bottom: 141.4214%;"><iframe src="https://www.behance.net/gallery/86396439/berlin-0818?iframe=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+<div style="left: 0; width: 100%; height: 100vh; position: relative;"><iframe src="https://www.behance.net/gallery/86396439/berlin-0818?iframe=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
 
 
