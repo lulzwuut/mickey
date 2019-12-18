@@ -9,7 +9,7 @@ url: 'berlagegala'
 tags:  event-photography, photography, event, berlage, berlage lyceum
 image:
   feature: berlagegala.jpg
-  topPosition: +100px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

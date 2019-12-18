@@ -9,7 +9,7 @@ url: 'сotedazur16'
 tags:  france, cote d'azur, photography
 image:
   feature: cotedazur16.jpg
-  topPosition: +100px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

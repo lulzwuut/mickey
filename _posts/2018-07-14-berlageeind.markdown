@@ -9,7 +9,7 @@ url: 'berlageeind'
 tags:  event-photography, photography, event, berlage, berlage lyceum
 image:
   feature: berlageeind.jpg
-  topPosition: +100px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
