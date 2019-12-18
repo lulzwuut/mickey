@@ -16,6 +16,10 @@ syntaxHighlighter: no
 ---
 
 
-<div><iframe src="https://www.behance.net/gallery/86396439/Berlin-August-2018?iframe=1" style="border: 0; top: 0; left: 0; bottom: 0; right: 0; width: 100%; height: 100%; position: fixed;" allowfullscreen></iframe></div>
+<div style="text-align: center"><iframe src="https://www.behance.net/gallery/86396439/Berlin-August-2018?iframe=1" style="border: 0; top: 28.5rem; left: 0; bottom: 0; right: 0; width: 60vw; height: 300%; position: fixed;" allowfullscreen></iframe></div>
 
-
+<style>
+	.Project-topElement-bnH {
+		display: none;
+	}
+</style>
