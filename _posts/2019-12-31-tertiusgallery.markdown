@@ -6,7 +6,7 @@ last_modified_at:  2019-12-31 01:00:00
 excerpt: 
 categories: webdev
 url: 'tertiusgallery'
-tags:  berlin, vera, maxim, retouch
+tags:  tertius, gallery, webdesign
 image:
   feature: terthero.png
   topPosition: -100px
@@ -15,10 +15,10 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Website is now live at: <a href="gallery.tertius.nl">gallery.tertius.nl</a>
+<p style="text-align: center">Website is now live at: <a href="gallery.tertius.nl">gallery.tertius.nl</a></p>
 
-<img src="/assets/posts/tert1img.png">
-<img src="/assets/posts/tert2img.png">
-<img src="/assets/posts/tert3img.png">
+<img src="tert1img.png">
+<img src="tert2img.png">
+<img src="tert3img.png">
 
 
