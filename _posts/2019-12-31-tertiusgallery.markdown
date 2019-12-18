@@ -18,9 +18,9 @@ syntaxHighlighter: no
 <p style="text-align: center">Website is now live at: <a href="http://gallery.tertius.nl/">gallery.tertius.nl</a></p>
 
 <div class="your-class">
-  <div><img src="assets/images/posts/tert1img.png" alt=""></div>
-  <div><img src="assets/images/posts/tert2img.png" alt=""></div>
-  <div><img src="assets/images/posts/tert3img.png" alt=""></div>
+  <div class="one-time"><img src="assets/images/posts/tert1img.png" alt=""></div>
+  <div class="one-time"><img src="assets/images/posts/tert2img.png" alt=""></div>
+  <div class="one-time"><img src="assets/images/posts/tert3img.png" alt=""></div>
 </div>
   <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
