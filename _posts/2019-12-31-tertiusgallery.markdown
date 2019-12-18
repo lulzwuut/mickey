@@ -15,15 +15,15 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<p style="text-align: center">Website is now live at: <a href="http://gallery.tertius.nl/">gallery.tertius.nl</a></p>
+<p style="text-align: center">Website is now live at: <a href="http://gallery.tertius.nl/" style="color: blue; text-decoration: underline;">gallery.tertius.nl</a></p>
 
 <div class="one-time">
   <div><img src="assets/images/posts/tert1img.png" alt=""></div>
   <div><img src="assets/images/posts/tert2img.png" alt=""></div>
   <div><img src="assets/images/posts/tert3img.png" alt=""></div>
 </div>
-  <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+  <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
   <script type="text/javascript" src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
   
 <script type="text/javascript">
