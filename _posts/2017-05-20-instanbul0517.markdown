@@ -18,15 +18,5 @@ syntaxHighlighter: no
 
 <div style="left: 0; width: 100%; height: 100vh; position: relative;"><iframe src="https://www.behance.net/gallery/89190535/Instanbul-May-2017?iframe=1" scrolling="no" style="width:100%" allowfullscreen></iframe></div>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<script type="text/javascript" src="../js/iframeResizer.min.js"></script>
-<script type="text/javascript">
-
-			iFrameResize({
-				log                     : true,                  // Enable console logging
-				enablePublicMethods     : true,                  // Enable methods within iframe hosted page
-			});
-
-
 		</script>
 
