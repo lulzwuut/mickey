@@ -17,35 +17,23 @@ syntaxHighlighter: no
 
 <p style="text-align: center">Website is now live at: <a href="http://gallery.tertius.nl/">gallery.tertius.nl</a></p>
 
-<div class="slider one-time">
+<div class="one-time">
   <div><img src="assets/images/posts/tert1img.png" alt=""></div>
   <div><img src="assets/images/posts/tert2img.png" alt=""></div>
   <div><img src="assets/images/posts/tert3img.png" alt=""></div>
 </div>
-<pre><code class="language-javascript">
-		$('.one-time').slick({
-		  dots: true,
-		  infinite: true,
-		  speed: 300,
-		  slidesToShow: 1,
-		  adaptiveHeight: true
-		});
-				</code></pre>
   <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 	<script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
   <script type="text/javascript" src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
   
 <script type="text/javascript">
-	$(document).ready(function(){
-	  $('.slider').slick({
-	    setting-name: setting-value
-	  });
-	});
-	$('.one-time').slick({
-	  dots: true,
-	  infinite: true,
-	  speed: 300,
-	  slidesToShow: 1,
-	  adaptiveHeight: true
+	$(document).ready(function() {
+		$('.one-time').slick({
+        dots: true,
+        infinite: true,
+        speed: 500,
+        slidesToShow: 1,
+        adaptiveHeight: true
+    });
 	});
 </script>
