@@ -17,8 +17,8 @@ syntaxHighlighter: no
 
 <p style="text-align: center">Website is now live at: <a href="gallery.tertius.nl">gallery.tertius.nl</a></p>
 
-<img src="tert1img.png">
-<img src="tert2img.png">
-<img src="tert3img.png">
+<img src="assets/images/posts/tert1img.png">
+<img src="assets/images/posts/tert2img.png">
+<img src="assets/images/posts/tert3img.png">
 
 
