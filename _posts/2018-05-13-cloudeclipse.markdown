@@ -9,7 +9,7 @@ url: 'cloudeclipse'
 tags:  alice, romanticism, writing
 image:
   feature: cloud_eclipse.jpg
-  topPosition: +100px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

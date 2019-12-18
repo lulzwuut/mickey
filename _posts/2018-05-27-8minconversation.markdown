@@ -9,7 +9,7 @@ url: '8minconversation'
 tags:  alice, romanticism, writing, heartbroken
 image:
   feature: 8minconv.jpg
-  topPosition: +100px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

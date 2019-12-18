@@ -9,7 +9,7 @@ url: 'berlin0818'
 tags:  berlin, vera, maxim, retouch
 image:
   feature: berlin0818.jpg
-  topPosition: +100px
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
