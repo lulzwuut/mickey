@@ -14,9 +14,11 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+<head>
+   <link rel="stylesheet" href="{{ site.baseurl }}assets/css/grid-gallery.min.css">
+</head>
 <body>
     <div id="gg-screen"></div>
-        <h1>Justified Grid Gallery With Lightbox Example</h1>
         <div class="gg-box">
           <div class="gg-element">
             <img src="https://picsum.photos/1600/1300/?random">
