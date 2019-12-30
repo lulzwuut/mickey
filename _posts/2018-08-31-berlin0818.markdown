@@ -14,9 +14,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-<head>
-   <link rel="stylesheet" href="{{ site.baseurl }}assets/css/grid-gallery.min.css">
-</head>
 <body>
     <div id="gg-screen"></div>
         <div class="gg-box">
@@ -82,5 +79,5 @@ syntaxHighlighter: no
           </div>
         </div>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script type="text/javascript" src="js/grid-gallery.min.js"></script>
+        <script type="text/javascript" src="assets/javascripts/grid-gallery.min.js"></script>
 </body>
