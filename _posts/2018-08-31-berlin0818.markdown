@@ -15,11 +15,69 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-
-<div style="text-align: center"><iframe src="https://www.behance.net/gallery/86396439/Berlin-August-2018?iframe=1" style="border: 0;left: 0; bottom: 0; right: 0; width: 60vw; height: 300%; position: fixed;" allowfullscreen></iframe></div>
-
-<style>
-	.Project-topElement-bnH {
-		display: none;
-	}
-</style>
+<div id="gg-screen"></div>
+    <h1>Justified Grid Gallery With Lightbox Example</h1>
+    <div class="gg-box">
+      <div class="gg-element">
+        <img src="https://picsum.photos/1600/1300/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1600/1200/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1200/1600/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1600/1201/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1200/1601/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1201/1600/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1600/1310/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1602/1311/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1603/1311/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1602/1312/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1201/1601/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1201/1602/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1602/1313/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1602/1314/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1602/1315/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1602/1316/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1203/1602/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1605/1312/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1204/1602/?random">
+      </div>
+      <div class="gg-element">
+        <img src="https://picsum.photos/1205/1602/?random">
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="js/grid-gallery.min.js"></script>
