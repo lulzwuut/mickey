@@ -15,69 +15,365 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 <body>
-    <div id="gg-screen"></div>
-        <div class="gg-box">
-          <div class="gg-element">
-            <img src="https://picsum.photos/1600/1300/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1600/1200/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1200/1600/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1600/1201/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1200/1601/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1201/1600/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1600/1310/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1602/1311/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1603/1311/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1602/1312/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1201/1601/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1201/1602/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1602/1313/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1602/1314/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1602/1315/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1602/1316/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1203/1602/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1605/1312/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1204/1602/?random">
-          </div>
-          <div class="gg-element">
-            <img src="https://picsum.photos/1205/1602/?random">
-          </div>
+        <div id="gg-screen"></div>
+    <div class="gg-box">
+      "<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248360">
         </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248361">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248362">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248363">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248364">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248365">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248366">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248367">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248368">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248369">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248370">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248371">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248372">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248373">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248374">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248375">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248376">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248377">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248378">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248379">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248380">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248381">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248382">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248383">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248384">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248385">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248386">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248387">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248388">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248389">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248390">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248391">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248392">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248393">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248394">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248395">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248396">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248397">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248398">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248399">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248400">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248401">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248402">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248403">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248404">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248405">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248406">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248407">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248408">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248409">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248410">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248411">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248412">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248413">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248414">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248415">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248416">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248417">
+        </div>
+      </div>"
+"<div class="gg-box">
+      <div class="gg-element">
+        <div class="gg-container">
+          <img alt="title" src="https://vk.com/https://vk.com/photo30602476_456248418">
+        </div>
+      </div>"
+    </div>
+    
+
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script type="text/javascript" src="assets/javascripts/grid-gallery.min.js"></script>
 </body>
