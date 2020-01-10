@@ -14,75 +14,96 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-<head>
-  <style>
-    .clear      { clear:both; }
-    .photo-link   { padding:5px; margin:5px; border:1px solid #ccc; display:block; width:200px; float:left; }
-    .photo-link:hover { border-color:#999; }
-  </style>
-</head>
 <body>
-<?php
-/* function:  generates thumbnail */
-function make_thumb($src,$dest,$desired_width) {
-  /* read the source image */
-  $source_image = imagecreatefromjpeg($src);
-  $width = imagesx($source_image);
-  $height = imagesy($source_image);
-  /* find the "desired height" of this thumbnail, relative to the desired width  */
-  $desired_height = floor($height*($desired_width/$width));
-  /* create a new, "virtual" image */
-  $virtual_image = imagecreatetruecolor($desired_width,$desired_height);
-  /* copy source image at a resized size */
-  imagecopyresized($virtual_image,$source_image,0,0,0,0,$desired_width,$desired_height,$width,$height);
-  /* create the physical thumbnail image to its destination */
-  imagejpeg($virtual_image,$dest);
-}
-
-/* function:  returns files from dir */
-function get_files($images_dir,$exts = array('jpg')) {
-  $files = array();
-  if($handle = opendir($images_dir)) {
-    while(false !== ($file = readdir($handle))) {
-      $extension = strtolower(get_file_extension($file));
-      if($extension && in_array($extension,$exts)) {
-        $files[] = $file;
-      }
-    }
-    closedir($handle);
-  }
-  return $files;
-}
-
-/* function:  returns a file's extension */
-function get_file_extension($file_name) {
-  return substr(strrchr($file_name,'.'),1);
-}
-/** settings **/
-$images_dir = '/assets/images/albums/italy16/';
-$thumbs_dir = '/assets/images/albums/italy16/';
-$thumbs_width = 200;
-$images_per_row = 3;
-
-/** generate photo gallery **/
-$image_files = get_files($images_dir);
-if(count($image_files)) {
-  $index = 0;
-  foreach($image_files as $index=>$file) {
-    $index++;
-    $thumbnail_image = $thumbs_dir.$file;
-    if(!file_exists($thumbnail_image)) {
-      $extension = get_file_extension($thumbnail_image);
-      if($extension) {
-        make_thumb($images_dir.$file,$thumbnail_image,$thumbs_width);
-      }
-    }
-    echo '<a href="',$images_dir.$file,'" class="photo-link smoothbox" rel="gallery"><img src="',$thumbnail_image,'" /></a>';
-    if($index % $images_per_row == 0) { echo '<div class="clear"></div>'; }
-  }
-  echo '<div class="clear"></div>';
-}
-else {
-  echo '<p>There are no images in this gallery.</p>';
-}
+        <div id="gg-screen"></div>
+    <div class="gg-box">
+    	<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-1.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-2.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-3.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-4.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-5.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-6.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-7.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-8.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-9.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-10.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-11.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-12.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-13.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-14.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-15.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-16.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-17.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-18.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-19.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-20.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-21.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-22.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-23.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-24.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-25.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-26.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-27.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-28.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-29.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-30.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-31.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-32.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-33.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-34.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-35.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-36.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-37.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-38.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-39.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-40.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-41.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-42.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-43.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-44.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-45.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-46.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-47.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-48.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-49.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-50.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-51.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-52.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-53.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-54.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-55.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-56.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-57.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-58.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-59.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-60.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-61.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-62.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-63.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-64.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-65.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-66.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-67.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-68.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-69.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-70.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-71.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-72.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-73.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-74.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-75.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-76.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-77.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-78.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-79.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-80.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-81.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-82.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-83.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-84.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-85.jpg"></div> </div>
+<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-86.jpg"></div> </div>
+    </div>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="assets/javascripts/grid-gallery.min.js"></script>
 </body>
