@@ -16,80 +16,80 @@ syntaxHighlighter: no
 ---
 <body>
 	<div id="swipeboxExample" >
-		<a href="/Justified-Gallery/photos/24096687789_c37d45712f_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Peace of mind" src="/Justified-Gallery/photos/24096687789_c37d45712f_m.jpg" />
+		<a href="{{ site.baseurl }}photos/24096687789_c37d45712f_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Peace of mind" src="{{ site.baseurl }}photos/24096687789_c37d45712f_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/23753792354_bd75d8dabc_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Abu Dhabi" src="/Justified-Gallery/photos/23753792354_bd75d8dabc_m.jpg" />
+		<a href="{{ site.baseurl }}photos/23753792354_bd75d8dabc_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Abu Dhabi" src="{{ site.baseurl }}photos/23753792354_bd75d8dabc_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/16961685188_f130144d60_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Never stop climbing" src="/Justified-Gallery/photos/16961685188_f130144d60_m.jpg" />
+		<a href="{{ site.baseurl }}photos/16961685188_f130144d60_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Never stop climbing" src="{{ site.baseurl }}photos/16961685188_f130144d60_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/24014174029_2cfa940264_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Terme" src="/Justified-Gallery/photos/24014174029_2cfa940264_m.jpg" />
+		<a href="{{ site.baseurl }}photos/24014174029_2cfa940264_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Terme" src="{{ site.baseurl }}photos/24014174029_2cfa940264_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/13824674674_ca1e482394_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Deep sea" src="/Justified-Gallery/photos/13824674674_ca1e482394_m.jpg" />
+		<a href="{{ site.baseurl }}photos/13824674674_ca1e482394_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Deep sea" src="{{ site.baseurl }}photos/13824674674_ca1e482394_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/13824322785_104dc0968c_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Above the World" src="/Justified-Gallery/photos/13824322785_104dc0968c_m.jpg" />
+		<a href="{{ site.baseurl }}photos/13824322785_104dc0968c_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Above the World" src="{{ site.baseurl }}photos/13824322785_104dc0968c_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/8842312290_f310d491f4_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="The Spring" src="/Justified-Gallery/photos/8842312290_f310d491f4_m.jpg" />
+		<a href="{{ site.baseurl }}photos/8842312290_f310d491f4_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="The Spring" src="{{ site.baseurl }}photos/8842312290_f310d491f4_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/8811828736_88392f614a_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Cat firmness" src="/Justified-Gallery/photos/8811828736_88392f614a_m.jpg" />
+		<a href="{{ site.baseurl }}photos/8811828736_88392f614a_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Cat firmness" src="{{ site.baseurl }}photos/8811828736_88392f614a_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/8400794773_932654a20e_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Into the Sea" src="/Justified-Gallery/photos/8400794773_932654a20e_m.jpg" />
+		<a href="{{ site.baseurl }}photos/8400794773_932654a20e_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Into the Sea" src="{{ site.baseurl }}photos/8400794773_932654a20e_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/8157236803_78aa1698b6_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Bologna's T-Day" src="/Justified-Gallery/photos/8157236803_78aa1698b6_m.jpg" />
+		<a href="{{ site.baseurl }}photos/8157236803_78aa1698b6_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Bologna's T-Day" src="{{ site.baseurl }}photos/8157236803_78aa1698b6_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/7948632554_01f6ae6b6f_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Just in a dream Place" src="/Justified-Gallery/photos/7948632554_01f6ae6b6f_m.jpg" />
+		<a href="{{ site.baseurl }}photos/7948632554_01f6ae6b6f_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Just in a dream Place" src="{{ site.baseurl }}photos/7948632554_01f6ae6b6f_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/7822678460_ee98ff1f69_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Erice" src="/Justified-Gallery/photos/7822678460_ee98ff1f69_m.jpg" />
+		<a href="{{ site.baseurl }}photos/7822678460_ee98ff1f69_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Erice" src="{{ site.baseurl }}photos/7822678460_ee98ff1f69_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/7002395006_29fdc85f7a_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Freedom" src="/Justified-Gallery/photos/7002395006_29fdc85f7a_m.jpg" />
+		<a href="{{ site.baseurl }}photos/7002395006_29fdc85f7a_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Freedom" src="{{ site.baseurl }}photos/7002395006_29fdc85f7a_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/7062575651_b23918b11a_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Maybe spring" src="/Justified-Gallery/photos/7062575651_b23918b11a_m.jpg" />
+		<a href="{{ site.baseurl }}photos/7062575651_b23918b11a_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Maybe spring" src="{{ site.baseurl }}photos/7062575651_b23918b11a_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6841267340_855273fd7e_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Love" src="/Justified-Gallery/photos/6841267340_855273fd7e_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6841267340_855273fd7e_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Love" src="{{ site.baseurl }}photos/6841267340_855273fd7e_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6791628438_affaa19e10_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="These are the colors I love" src="/Justified-Gallery/photos/6791628438_affaa19e10_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6791628438_affaa19e10_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="These are the colors I love" src="{{ site.baseurl }}photos/6791628438_affaa19e10_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6916180091_9c9559e463_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="The Hope" src="/Justified-Gallery/photos/6916180091_9c9559e463_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6916180091_9c9559e463_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="The Hope" src="{{ site.baseurl }}photos/6916180091_9c9559e463_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6880502467_d4b3c4b2a8_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Florence streets. Florence people." src="/Justified-Gallery/photos/6880502467_d4b3c4b2a8_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6880502467_d4b3c4b2a8_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Florence streets. Florence people." src="{{ site.baseurl }}photos/6880502467_d4b3c4b2a8_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6876412479_6268c6e2aa_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="I Love You" src="/Justified-Gallery/photos/6876412479_6268c6e2aa_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6876412479_6268c6e2aa_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="I Love You" src="{{ site.baseurl }}photos/6876412479_6268c6e2aa_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6840627709_92ed52fb41_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="The painter in Florence" src="/Justified-Gallery/photos/6840627709_92ed52fb41_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6840627709_92ed52fb41_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="The painter in Florence" src="{{ site.baseurl }}photos/6840627709_92ed52fb41_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6812090617_5fd5bbdda0_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Me and My Belover" src="/Justified-Gallery/photos/6812090617_5fd5bbdda0_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6812090617_5fd5bbdda0_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Me and My Belover" src="{{ site.baseurl }}photos/6812090617_5fd5bbdda0_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6806687375_07d2b7a1f9_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="Fiocco" src="/Justified-Gallery/photos/6806687375_07d2b7a1f9_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6806687375_07d2b7a1f9_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="Fiocco" src="{{ site.baseurl }}photos/6806687375_07d2b7a1f9_m.jpg" />
 		</a>
-		<a href="/Justified-Gallery/photos/6798453217_72dea2d06e_b.jpg" class="swipeboxExampleImg" rel='gal'>
-			<img alt="My first clothespin" src="/Justified-Gallery/photos/6798453217_72dea2d06e_m.jpg" />
+		<a href="{{ site.baseurl }}photos/6798453217_72dea2d06e_b.jpg" class="swipeboxExampleImg" rel='gal'>
+			<img alt="My first clothespin" src="{{ site.baseurl }}photos/6798453217_72dea2d06e_m.jpg" />
 		</a>
 	</div>
-    <script src="../bower_components/jquery/dist/jquery.js"></script>
-    <script src="../bower_components/colorbox/jquery.colorbox.js"></script>
-    <script src="../bower_components/swipebox/src/js/jquery.swipebox.min.js"></script>
-    <script src="../bower_components/jquery/justifiedGallery/js/jquery.justifiedGallery.js"></script>
+    <script src="{{ site.baseurl }}assets/bower_components/jquery/dist/jquery.js"></script>
+    <script src="{{ site.baseurl }}assets/bower_components/colorbox/jquery.colorbox.js"></script>
+    <script src="{{ site.baseurl }}assets/bower_components/swipebox/src/js/jquery.swipebox.min.js"></script>
+    <script src="{{ site.baseurl }}assets/bower_components/jquery/justifiedGallery/js/jquery.justifiedGallery.js"></script>
     <!-- endbower -->
     <script>
     $('#swipeboxExample').justifiedGallery({
