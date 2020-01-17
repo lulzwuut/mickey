@@ -15,95 +15,72 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 <body>
-        <div id="gg-screen"></div>
-    <div class="gg-box">
-    	<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-1.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-2.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-3.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-4.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-5.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-6.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-7.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-8.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-9.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-10.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-11.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-12.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-13.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-14.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-15.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-16.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-17.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-18.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-19.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-20.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-21.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-22.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-23.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-24.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-25.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-26.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-27.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-28.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-29.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-30.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-31.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-32.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-33.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-34.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-35.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-36.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-37.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-38.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-39.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-40.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-41.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-42.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-43.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-44.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-45.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-46.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-47.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-48.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-49.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-50.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-51.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-52.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-53.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-54.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-55.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-56.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-57.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-58.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-59.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-60.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-61.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-62.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-63.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-64.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-65.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-66.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-67.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-68.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-69.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-70.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-71.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-72.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-73.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-74.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-75.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-76.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-77.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-78.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-79.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-80.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-81.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-82.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-83.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-84.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-85.jpg"></div> </div>
-<div class="gg-element"> <div class="gg-container"> <img alt="title" src="/assets/images/albums/italy16/it-86.jpg"></div> </div>
+	<h1>Swipebox test</h1>
+    <div class="swipeboxEx">
+        <a href="../photos/8083451788_552becfbc7_b.jpg" title="What's your destination?">
+            <img src="../photos/8083451788_552becfbc7_m.jpg" />
+        </a>
+        <a href="../photos/7948632554_01f6ae6b6f_b.jpg" title="Just in a dream Place">
+            <img src="../photos/7948632554_01f6ae6b6f_m.jpg" />
+        </a>
+        <a href="../photos/7302459122_19fa1d8223_b.jpg" title="Truthful Innocence">
+            <img src="../photos/7302459122_19fa1d8223_m.jpg" />
+        </a>
+        <a href="../photos/7222046648_5bf70e893a_b.jpg" title="Simply my Brother">
+            <img src="../photos/7222046648_5bf70e893a_m.jpg" />
+        </a>
+        <a href="../photos/7002395006_29fdc85f7a_b.jpg" title="Freedom">
+            <img src="../photos/7002395006_29fdc85f7a_m.jpg" />
+        </a>
+        <a href="../photos/7062575651_b23918b11a_b.jpg" title="Maybe spring">
+            <img src="../photos/7062575651_b23918b11a_m.jpg" />
+        </a>
+        <a href="../photos/6841267340_855273fd7e_b.jpg" title="Love">
+            <img src="../photos/6841267340_855273fd7e_m.jpg" />
+        </a>
+        <a href="../photos/6958456697_e56a37bb5f_b.jpg" title="Young Lovers' Wall and the Old Rain">
+            <img src="../photos/6958456697_e56a37bb5f_m.jpg" />
+        </a>
+        <a href="../photos/6791628438_affaa19e10_b.jpg" title="This is the colors I love">
+            <img src="../photos/6791628438_affaa19e10_m.jpg" />
+        </a>
     </div>
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-        <script type="text/javascript" src="assets/javascripts/grid-gallery.min.js"></script>
+    <br/>
+    <div class="swipeboxEx">
+        <a href="../photos/6916180091_9c9559e463_b.jpg" title="The Hope">
+            <img src="../photos/6916180091_9c9559e463_m.jpg" />
+        </a>
+        <a href="../photos/6880502467_d4b3c4b2a8_b.jpg" title="Florence streets. Florence people.">
+            <img src="../photos/6880502467_d4b3c4b2a8_m.jpg" />
+        </a>
+        <a href="../photos/6876412479_6268c6e2aa_b.jpg" title="I Love You">
+            <img src="../photos/6876412479_6268c6e2aa_m.jpg" />
+        </a>
+        <a href="../photos/6840627709_92ed52fb41_b.jpg" title="The painter in Florence">
+            <img src="../photos/6840627709_92ed52fb41_m.jpg" />
+        </a>
+        <a href="../photos/6812090617_5fd5bbdda0_b.jpg" title="Me and My Belover">
+            <img src="../photos/6812090617_5fd5bbdda0_m.jpg" />
+        </a>
+        <a href="../photos/6806687375_07d2b7a1f9_b.jpg" title="Fiocco">
+            <img src="../photos/6806687375_07d2b7a1f9_m.jpg" />
+        </a>
+        <a href="../photos/6798453217_72dea2d06e_b.jpg" title="My first clothespin">
+            <img src="../photos/6798453217_72dea2d06e_m.jpg" />
+        </a>
+    </div>
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/colorbox/jquery.colorbox.js"></script>
+    <script src="../bower_components/swipebox/src/js/jquery.swipebox.min.js"></script>
+    <script src="../bower_components/jquery/justifiedGallery/js/jquery.justifiedGallery.js"></script>
+    <!-- endbower -->
+    <script>
+    $('.swipeboxEx').each(function(i, el) {
+        $(el).justifiedGallery({
+            rel: 'gal' + i
+        }).on('jg.complete', function() {
+            if (i == 0) $('.swipeboxEx a').swipebox(); //swipebox, wants to be called only once to work properly
+        });
+    });
+    </script>
 </body>
