@@ -1,5 +1,5 @@
 <!-- Javascript -->
-<script src="{{ site.baseurl_javascripts }}imagesloaded.pkgd.min.js"></script>
+<!--<script src="{{ site.baseurl_javascripts }}imagesloaded.pkgd.min.js"></script>-->
 
 {% if page.syntaxHighlighter %}
   <script src="{{ site.baseurl_javascripts }}prism.js"></script>
@@ -10,10 +10,10 @@
   $(document).ready(function(){
 
     // Featured image loaded behavior
-    $('.section-backgroundImage img').imagesLoaded()
+   /* $('.section-backgroundImage img').imagesLoaded()
       .done( function( instance ) {
         $('.post-featuredImage').addClass('is-loaded');
-      });
+      });*/
 
     // Modal toggle behavior
     $('.modal-toggle-wrapper').click(function() {
@@ -41,7 +41,7 @@
     $('.shareButton').on("click", function(e) {
       $(this).sharePopup(e);
     });
-  });
+  }); --
 
   // Show modal toggle after scrolling 300px
   $(document).scroll(function() {
