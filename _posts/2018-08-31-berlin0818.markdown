@@ -46,7 +46,6 @@ syntaxHighlighter: no
         </a>
     </div>
     <!-- bower:js -->
-    <script src="{{ site.baseurl }}assets/bower_components/jquery/dist/jquery.js"></script>
     <script src="{{ site.baseurl }}assets/bower_components/colorbox/jquery.colorbox.js"></script>
     <script src="{{ site.baseurl }}assets/bower_components/swipebox/src/js/jquery.swipebox.min.js"></script>
     <script src="{{ site.baseurl }}assets/dist/js/jquery.justifiedGallery.js"></script>
