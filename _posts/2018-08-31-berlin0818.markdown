@@ -15,5 +15,5 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 <body>
-	    {% include image-gallery.html folder="/assets/images/albums/berlin08.18" %}
+	    {% include image-gallery.html folder="assets/images/albums/berlin08.18" %}
 </body>
