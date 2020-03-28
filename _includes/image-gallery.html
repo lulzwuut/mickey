@@ -63,8 +63,8 @@
 </style>
 
 <ul class="image-gallery">
-	{% assign ordered_items = (site.static_files | sort ) %}
-	{% for file in ordered_items %}
+
+	{% for file in site.static_files %}
 		{% if file.path contains include.folder %}
 			{% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.JPG' or file.extname == '.JPEG' %}
 			{% assign filenameparts = file.path | split: "/" %}

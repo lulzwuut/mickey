@@ -453,6 +453,9 @@ hr {
 .is-darkBackgrounded a:visited {
   color: #fff;
 }
+.is-darkBackgrounded {
+  background-color: rgba(0,0,0,0.2);
+}
 
 .img {
   margin-top: 1.5rem;
