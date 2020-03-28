@@ -1,12 +1,5 @@
 <nav role="navigation" class="sidebar sidebar--right">
   <a href="{{site.baseurl}}" class="textLogo textLogo--white textLogo--sidebar">{{ site.name }}</a>
-        <ul style="margin-top: 0.5em; list-style: none; text-decoration: none; display: inline; margin-bottom: 0.5em;">
-        <li style="position: absolute; padding-left: 2rem"><a href="https://vk.com/lulzwuut"><i style="color: white;"class="fab fa-vk"></i></a></li>
-        <li style="position: absolute; padding-left: 3.5rem;"><a href="https://www.facebook.com/lulzwuut"><i style="color: white;" class="fab fa-facebook-f"></i></a></li>
-        <li style="position: absolute; padding-left: 5rem;"><a href="https://www.linkedin.com/in/maxim-velli/"><i style="color: white;" class="fab fa-linkedin-in"></i></a></li>
-        <li style="position: absolute; padding-left: 6.5rem;"><a href="https://www.behance.net/maxim-velli"><i style="color: white;" class="fab fa-behance"></i></a></li>
-        <li style="position: absolute; padding-left: 8rem;"><a href="/about"><i style="color: white;" class="fas fa-question"></i></a></li>
-
         <div class="nav_icons">
             <div class="icon">
                 <a href="https://vk.com/lulzwuut"><i style="color: white;"class="fab fa-vk"></i></a>
@@ -21,7 +14,6 @@
                 <a href="https://www.behance.net/maxim-velli"><i style="color: white;" class="fab fa-behance"></i></a>
             </div>
         </div>
-      </ul>
   <ul class="sidebar-recentPosts">
     {% for post in site.posts offset:0 limit:10 %}
       {% if post.title == page.title %}
