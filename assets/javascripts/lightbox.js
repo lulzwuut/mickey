@@ -70,6 +70,21 @@ function setGallery(el) {
 		document.getElementById('next').addEventListener("click", function() {
 			gallery_elements[nextkey].click();
 		});
+
+        document.onkeydown = checkKey; 
+        function checkKey (e) {
+            e = e || window.event;
+
+            if (e.keyCode == '37') {
+                // left arrow
+                gallery_elements[prevkey].click();
+            }
+            else if (e.keyCode == '39') {
+                // right arrow
+                gallery_elements[nextkey].click();
+            }
+
+        }
 		document.getElementById('prev').addEventListener("click", function() {
 			gallery_elements[prevkey].click();
 		});
