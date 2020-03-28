@@ -114,9 +114,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 element.classList.add('lightbox-image');
                 var href = element.getAttribute('href');
                 var filename = href.split('/').pop();
-                var split = filename.split(".");
-                split = filename.split("-");
-                var name = split[1];
+                var split_1 = filename.split(".");
+                var split_2 = filename.split("-");
+                var name = split_2[1];
                 element.setAttribute('title',name);
             }
         }
