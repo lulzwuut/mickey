@@ -106,7 +106,18 @@ mark {
 small {
   font-size: 80%;
 }
-
+.nav_icons {
+  width: 100%;
+  margin-top: 1em;
+  text-align: center;
+}
+.nav_icons .icon {
+    width: 16%;
+    padding-right: 3%;
+    padding-left: 3%;
+    display: inline;
+    text-align: center;
+}
 sub,
 sup {
   font-size: 75%;
@@ -1375,18 +1386,6 @@ body {
   .col-lg-offset-12 {
     margin-left: 100%;
   }
-}
-.nav_icons {
-  width: 100%;
-  margin-top: 1em;
-  text-align: center;
-}
-.nav_icons .icon {
-    width: 16%;
-    padding-right: 3%;
-    padding-left: 3%;
-    display: inline;
-    text-align: center;
 }
 .sidebar {
   width: 14rem;
