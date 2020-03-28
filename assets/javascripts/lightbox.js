@@ -115,7 +115,8 @@ document.addEventListener("DOMContentLoaded", function() {
                 var href = element.getAttribute('href');
                 var filename = href.split('/').pop();
                 var split = filename.split(".");
-                var name = split[0];
+                split = filename.split("-");
+                var name = split[1];
                 element.setAttribute('title',name);
             }
         }
