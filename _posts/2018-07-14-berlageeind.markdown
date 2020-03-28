@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-
-<div style="left: 0; width: 100%; height: 100vh; position: relative;"><iframe src="https://www.behance.net/gallery/89189901/Berlage-Lyceum-Eind-Feest-2018?iframe=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
-
+<body>
+	    {% include image-gallery.html folder="/assets/images/albums/berlageeind18" %}
+</body>
 

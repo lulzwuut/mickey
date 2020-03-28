@@ -17,6 +17,6 @@ syntaxHighlighter: no
 
 
 <body>
-	    {% include image-gallery.html folder="/assets/images/albums/istanbul05.17" %}
+	    {% include image-gallery.html folder="/assets/images/albums/porto02.17" %}
 </body>
 
