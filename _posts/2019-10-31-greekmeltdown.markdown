@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Berlin August 2018"
-date:   2018-08-31 01:00:00
-last_modified_at:  2018-08-31 01:00:00
-excerpt: "то, что заняло непозволительно долго, ввиду тяжёлого сердца"
+title:  "The Greek Meltdown"
+date:   2019-08-31 01:00:00
+last_modified_at:  2020-05-28 01:00:00
+excerpt: "we're glad to present the collaboration between Maxim and Svetlana Velli.<br>photography by Svetlana Velli<br>editing by Maxim Velli"
 categories: photography
-url: 'berlin0818'
-tags:  berlin, vera, maxim, retouch
+url: 'greekmeltdown'
+tags:  greece, sister, sveta, retouch
 image:
-  feature: berlin0818.jpg
+  feature: sveta_hero.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

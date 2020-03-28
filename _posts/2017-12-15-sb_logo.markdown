@@ -9,7 +9,7 @@ url: 'sb_logo'
 tags:  design, logo, geometry
 image:
   feature: sb_hero.png
-  topPosition: -100px
+  topPosition: +100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
