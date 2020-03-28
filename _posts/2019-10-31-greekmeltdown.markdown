@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Berlin August 2018"
+date:   2018-08-31 01:00:00
+last_modified_at:  2018-08-31 01:00:00
+excerpt: "то, что заняло непозволительно долго, ввиду тяжёлого сердца"
+categories: photography
+url: 'berlin0818'
+tags:  berlin, vera, maxim, retouch
+image:
+  feature: berlin0818.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+<body>
+	    {% include image-gallery.html folder="/assets/images/albums/sveta08.19" %}
+</body>

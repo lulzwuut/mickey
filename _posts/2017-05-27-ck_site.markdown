@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-
+<p style="text-align: center">Website is now live at: <a href="http://chilikingdom.ru" style="color: blue; text-decoration: underline;">http://chilikingdom.ru</a></p>
   <div><img style="width: 100%;" src="assets/images/posts/ck_index.png" alt=""></div>
 
 

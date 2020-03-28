@@ -8,8 +8,8 @@ categories: design
 url: 'sb_logo'
 tags:  design, logo, geometry
 image:
-  feature: sb_hero.jpg
-  topPosition: -700px
+  feature: sb_hero.png
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
