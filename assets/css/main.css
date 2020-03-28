@@ -1376,7 +1376,16 @@ body {
     margin-left: 100%;
   }
 }
+.nav_icons {
+  width: 100%;
+  height: 200px;
 
+}
+.nav_icons .icon {
+    width: 18%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
 .sidebar {
   width: 14rem;
   visibility: hidden;
