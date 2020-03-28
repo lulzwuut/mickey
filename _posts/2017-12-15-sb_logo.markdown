@@ -3,7 +3,7 @@ layout: post
 title:  "Спец Бутик Logo"
 date:   2017-12-15 01:00:00
 last_modified_at:  2020-03-28 01:00:00
-excerpt: 
+excerpt: a project for a workwear clothing brand
 categories: design
 url: 'sb_logo'
 tags:  design, logo, geometry
