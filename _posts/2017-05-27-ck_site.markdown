@@ -1,21 +1,22 @@
 ---
 layout: post
-title:  "Спец Поставщик Logo"
-date:   2017-05-27 01:00:00
-last_modified_at:  2017-05-27 01:00:00
+title:  "Chili Kingdom Website"
+date:   2019-09-01 01:00:00
+last_modified_at:  2020-05-28 01:00:00
 excerpt: 
-categories: design
-url: 'sp_logo'
-tags:  design, logo, geometry
+categories: webdev
+url: 'ck_website'
+tags:  design, webdesign, webshop
 image:
-  feature: design.jpg
-  topPosition: -700px
+  feature: web.jpg
+  topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
 
-<div style="left: 0; width: 100%; height: 100vh; position: relative;"><iframe src="https://www.behance.net/gallery/86396439/berlin-0818?iframe=1" style="border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;" allowfullscreen></iframe></div>
+  <div><img style="width: 100%;" src="assets/images/posts/ck_index.png" alt=""></div>
+
 
 

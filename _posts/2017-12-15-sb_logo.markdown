@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Спец Бутик Logo"
+date:   2017-12-15 01:00:00
+last_modified_at:  2020-03-28 01:00:00
+excerpt: 
+categories: design
+url: 'sb_logo'
+tags:  design, logo, geometry
+image:
+  feature: sb_hero.jpg
+  topPosition: -700px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+  <div><img style="width: 100%;" src="assets/images/posts/sbpreviewwhite.png" alt=""></div>
+  <div><img style="width: 100%;" src="assets/images/posts/sblogowhite.png" alt=""></div>
+
+
+
