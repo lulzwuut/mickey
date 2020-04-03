@@ -4,7 +4,7 @@ title:  "art in a nutshell"
 date:   2018-06-01 01:00:00
 last_modified_at:  2018-06-01 01:00:00
 excerpt: ""
-categories: videoo
+categories: video
 url: 'artinanutshell'
 tags:  art, berlage lyceum, video, criticism
 image:
