@@ -16,4 +16,11 @@ syntaxHighlighter: no
 ---
 <body>
 	    {% include image-gallery.html folder="/assets/images/albums/berlin08.18" %}
+
+
+	    <script>
+	    	var lazyLoadInstance = new LazyLoad({
+    			elements_selector: ".lazy"
+			});
+	    </script>
 </body>
