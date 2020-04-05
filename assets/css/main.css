@@ -621,8 +621,8 @@ body {
 @media (max-width: 767px) {
   .textLogo--frontpage {
     width: 182px;
-    height: 33px;
-    top: 99px;
+/*    height: 33px;
+    top: 99px;*/
   }
 }
 
