@@ -88,10 +88,10 @@ function setGallery(el) {
 			gallery_elements[prevkey].click();
 		});
 
-        $('#lightbox').swipeleft(function() {  
+        $('#lightbox').on("swiperight", (function() {  
             gallery_elements[prevkey].click();
         });
-        $('#lightbox').swiperight(function() {
+        $('#lightbox').on("swipeleft", (function() {
             gallery_elements[nextkey].click();
         });
 	}
