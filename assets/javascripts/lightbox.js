@@ -88,15 +88,12 @@ function setGallery(el) {
 			gallery_elements[prevkey].click();
 		});
 
-        document.ready(function() {  
-           $("#lightbox").swiperight(function() {  
-              gallery_elements[nextkey].click();  
-            });  
-           $("#lightbox").swipeleft(function() {  
-              gallery_elements[prevkey].click(); 
-           });  
-        });  
-	}
+        document.getElementById('lightbox').addEventListener("swipeleft", function() {
+            gallery_elements[prevkey].click();
+        });
+        document.getElementById('lightbox').addEventListener("swiperight", function() {
+            gallery_elements[nextkey].click();
+        });
 }
 
 document.addEventListener("DOMContentLoaded", function() {
