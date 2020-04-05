@@ -2612,7 +2612,11 @@ body {
 .button:hover {
   border-color: #777777;
 }
-
+@media (max-width: 450px) {
+    .postMeta li {
+      width: 100%;
+    }
+}
 @media (max-width: 767px) {
   .button {
     font-size: 14px;
