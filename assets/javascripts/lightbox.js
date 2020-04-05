@@ -94,6 +94,7 @@ function setGallery(el) {
         document.getElementById('lightbox').addEventListener("swiperight", function() {
             gallery_elements[nextkey].click();
         });
+	}
 }
 
 document.addEventListener("DOMContentLoaded", function() {
