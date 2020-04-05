@@ -70,7 +70,6 @@ function setGallery(el) {
 		document.getElementById('next').addEventListener("click", function() {
 			gallery_elements[nextkey].click();
 		});
-
         document.onkeydown = checkKey; 
         function checkKey (e) {
             e = e || window.event;
@@ -88,6 +87,15 @@ function setGallery(el) {
 		document.getElementById('prev').addEventListener("click", function() {
 			gallery_elements[prevkey].click();
 		});
+
+        document.ready(function() {  
+           $("#lightbox").swiperight(function() {  
+              gallery_elements[nextkey].click();  
+            });  
+           $("#lightbox").swipeleft(function() {  
+              gallery_elements[prevkey].click(); 
+           });  
+        });  
 	}
 }
 
