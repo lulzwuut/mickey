@@ -15,7 +15,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-  <div style="text-align: center;"><img style="width: 75%;" src="assets/images/posts/bowieposter.jpg" alt=""></div>
+  <div style="text-align: center;"><p> if you'd like to print this, contact me for a  very high resolution/vector file</p><img style="width: 75%;" src="assets/images/posts/bowieposter.jpg" alt=""></div>
 
 
 
