@@ -9,7 +9,7 @@ url: 'bowie_poster'
 tags:  design, poster, david, bowie
 image:
   feature: bowieposter.jpg
-  topPosition: +100px
+  topPosition: -200px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
