@@ -608,7 +608,6 @@ body {
   -webkit-transform: translateX(-50%);
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
-  z-index: 500;
   margin: 0;
   width: 276px;
   height: 300px;
