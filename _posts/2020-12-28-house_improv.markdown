@@ -1,5 +1,6 @@
 ---
-layout: "Staircase Soundproof"
+layout: post
+title: "Staircase Soundproof"
 date:   2020-12-28 01:00:00
 last_modified_at:  2020-12-28 01:00:00
 excerpt: ""
