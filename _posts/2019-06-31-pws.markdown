@@ -1,0 +1,382 @@
+---
+layout: post
+title:  "Blissful joy of pure ignorance"
+date:   2021-04-14 01:00:00
+last_modified_at:  2021-04-14 01:00:00
+excerpt: ""
+categories: writing
+url: 'scifi'
+tags:  romanticism, writing, scifi, philosophy
+image:
+  feature: scifi.jpg
+  topPosition: -100px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+
+
+Defining intelligence by means of 
+common sense
+  
+Authors: Maxim Veli & Sieds Lykles  
+Class: 6VB 
+Subjects: Philosophy and Biology 
+Supervisor: Dr. J. Schoone 
+ 	 
+ 
+Index 
+ 
+Index	2 
+Introduction	4 
+	Research question	6 
+	Sub-questions	6 
+	Audience and purpose	6 
+Method	7 
+	Literature	7 
+	Enquête	7 
+	Discussions	7 
+	Interviews	8 
+1	- Intelligence for dummies	10 
+1.1	- IQ tests as a way of measuring intelligence	10 
+1.1.1	- A short history	10 
+1.1.1.1	- First IQ test	10 
+1.1.1.2	- G-factor	10 
+1.1.1.3	- Cattell–Horn–Carroll theory	11 
+1.1.1.4	- Binet-Simon Intelligence Scale	11 
+1.1.1.5	- Wechsler Intelligence Scale	11 
+1.1.2	- IQ tests: the problem	12 
+1.1.2.1	- Circular reasoning	12 
+	Importance of defining intelligence	12 
+1.1.2.2	- Anti-anthropomorphism	12 
+	Importance of defining intelligence	13 
+1.1.2.3	- Simple-mindedness	13 
+1.2	- Philosophy behind intelligence and consciousness	13 
+1.2.1	- Dualism	13 
+1.2.1.1	- Famous supporters	13 
+1.2.1.2	- Concerning intelligence	13 
+1.2.1.3	- Critique	14 
+1.2.2	- Panpsychism	14 
+1.2.2.1	- Concerning intelligence	14 
+1.2.2.2	- Critique	14 
+1.2.3	- Monism	15 
+1.2.3.1	- Concerning intelligence	15 
+1.2.3.2	- Critique	15 
+1.2.4	- Free will	15 
+1.2.4.1	- Concerning intelligence	16 
+1.2.4.2	- Critique	16 
+2	- Requirements for a definition of intelligence	17 
+2.1	- Common sense	17 
+2.1.1	- Centralized and decentralized intelligence	17 
+2.1.2	- Conceptual comprehension problems of the general public	19 
+3	- Other possible theories of intelligence	19 
+3.1	- Integrated Information Theory	19 
+3.1.1	- Phi	19 
+3.1.2	- Integration	19 
+3.1.3	- Concerning intelligence	20 
+3.1.4	- Critique	20 
+3.2	- Functionalism	20 
+3.2.1	- Is it really the thought that matters?	20 
+3.2.2	- The problem of a problem	21 
+3.2.3	- Subjectivism of quantification	21 
+Conclusion	23 
+Discussion	24 
+	IIT or Consciousness as a measure of intelligence	24 
+	Functionalism	25 
+	Advice to further researchers	26 
+Endnotes	27 
+	Appendices	27 
+	Sources	28 
+	Maxim Velli logbook	31 
+	Sieds Lykles logbook	33 
+ 
+ 
+ 
+ 
+Introduction 
+It can sometimes be confusing to read a scientific piece, which states that human beings are intelligent. How can a piece of literature that states that you are intelligent make you feel so stupid? And meanwhile you continue on your struggle to find a way through this thick jungle of terms, the thought of you not being intelligent, or smart enough to comprehend this text, does not let you go. It is like that annoying kid, Nelson, from the Simpsons, who has already drawn up his index finger and is ready, at any moment, to say the legendary “Ha-ha!” At the point that you come to the literal transcendental terms of Kantian philosophy, he cracks a smile and breaks into laughing. And it breaks you down! You roll your eyes, swipe the article away and search for some more accessible content that you eventually find in the infinite meme pages on Facebook.  
+ 
+You are lucky if at that point Nelson disappears from your brain until the next time. But if he does not, you feel the guilt of being stupid and you start doubting whether you are, at all, an intelligent human being or you are, like the rest, doomed to waste your time on this planet by watching the new Netflix Original and staying up to date with the current meme trends. But you thought studying philosophy was a good idea… So it occurs to you that maybe it is not you, who is not intelligent! Maybe it is the intelligence that is different! Maybe it is just not what people think it is. So you turn to Wikipedia, your most reliable friend. 
+ 
+And what do you find there? “Intelligence has been defined in many ways to include the capacity for logic, understanding, self-awareness, learning, emotional knowledge, reasoning, planning, creativity, and problem solving. It can be more generally described as the ability to perceive or infer information, and to retain it as knowledge to be applied towards adaptive behaviors within an environment or context.” (Wikipedia contributors, 2018) Oh, you feel the chill going down your spine and you can already feel Nelson stepping out of the dark. You feel that your introverted, at times even edging with sociopathic tendencies, behaviour combined with a complete lack of a reasonable spectrum of empathy and a lack of creativity does not really fit in with the definition. Now that Nelson is again holding up his index finger, you understand that you have had enough! So you push him away and place a light bulb instead! “Eurika!” - you say, “The definition is wrong!”  
+ 
+So you sit down and text your geeky friend, who, as you know, has also been recently confronted with an existential crisis at the age of 17. And you tell him that you’ve found the solution to the problem of the “stupidity” both of you have lately been experiencing. People just defined intelligence incorrectly! So then both of your faces shine as you realize that all those Verge videos, all those questions on Quora and threads on Reddit on the topic of weird instances of evident intelligence in non-human creatures (e.g. Verge Science, 2018) have brewed a panacea for you. So, the two geeks that you are, you decide to continue your quest for the impugnment of the widely spread misconception about the lack of intelligence in procrastinating couch potatoes of the human species Homo Sapiens Sapiens. You do this, of course, by defining intelligence yourself and delving even deeper into the annals of psychology, philosophy and biology.  
+ 
+What repeatedly bothers you on your quest is that those, who are currently busy with the search for the definition of intelligence and study of intelligent species at all, are sometimes speaking of very dubious statements. For example, if you delve into the Integrated Information Theory (IIT) (Tononi, 2015) of Giulio Tononi, you soon begin to understand that everything can be conscious. (Horgan, 2015) Hereby you are introduced to the weird concept of panpsychism which for, as rational of a geek as you are, does not fit into your reference frame because of its apparent spirituality. 
+ 
+So instead of consenting with the confusing combination of spirituality and science, you choose to pursue the approach of Common Sense in your search of definition. By choosing an approach and setting a goal you are ready to get together with the entities, a priori commonly perceived as “stupid, such as bacteria, viruses, cells and even some animals, like Homo Sapiens, and find a definition for the disparate colloquial term of intelligence (Enquete, Fig. 1). 
+  
+ Fig. 1. “Are humans intelligent?” question from the “Defining intelligence” enquête (Appendix	 B). 
+ 
+In order to come up with our own theory of intelligence, which we are to do if we are ever to prove Nelson wrong, we must, as is paramount to any good scientific theory, base the theory upon observation and not, as often appears to be the case, create a theory and subsequently try to make the observations fit said theory (National Science Foundation, n.d.). Therefore any theory that does not consider us, us humans, but specifically us two, intelligent or any theory that does consider elementary particles to be intelligent must be looked at skeptically. This is due to the fact that we, English speakers, do not consider that to be the definition of intelligence by means of common sense and even though the exact definition of the word may not be agreed upon, any scientific or philosophical definition that we attempt to create should at least match this definition to some extent.  
+Research question 
+The question that we are aiming at answering through executing this research is:  What is the definition intelligence by means of common sense? 
+Sub-questions 
+The sub-questions that are to be answered in order to get an answer to the main question are:  
+●	What is common sense? 
+○	Are definitions based on common sensen eligible and academic? 
+●	What are the currently existing views on intelligence? 
+○	From a rational, neuroscientific point of view? 
+	○	From a purely philosophical point of view? 
+	○	On the intelligence of other entities rather than people? 
+	○	Do they define intelligence or only quantify it? 
+■	Can they be considered to be called definitions by means of common sense? 
+●	What does common sense tell us about which systems we perceive as intelligent and do they have any common necessary features? 
+○	Are all entities intelligent or only some? 
+	○	Is free will necessary for labelling an entity intelligent? 
+	○	What is the difference between intelligence and consciousness? 
+	○	Is instinctive behaviour also a type of intelligence? 
+●	Can systems consisting of multiple entities be regarded as intelligent? 
+○	Is intelligence an emergent characteristic? 
+	○	Is intelligence spiritual? 
+	○	Are they per se more intelligent than the individual entities? 
+●	Is it possible to find distinctive groups within the frame of intelligence? 
+○	Of individual entities? ○	Of groups of entities? 
+●	Are there ways to measure intelligence in order to categorize it? 
+○	What are the crucial factors that play a role in quantifying intelligence? 
+	■	Free will? 
+	■	Task solving? 
+	■	Consciousness? 
+Audience and purpose 
+Our ultimate goal is to disperse any kinds of uncertainties concerning what to call intelligent due to the formal definitions of it. The main purpose of using common sense is for people to mean what they say, say what they mean and, most importantly understand what they say and mean. Many brilliant, highly complex theories come to conclusions that a 12 year old can understand without having to put too much thought into it and so we aim at achieving a similar situation regarding intelligence. 
+Method 
+Literature 
+In any philosophical polemical discussion it is crucial to have a deep and exhaustive reference point. At any point of research you might stumble upon terms that have been previously described by one of the “major” philosophers. Not only this, but these concepts might also help to look at the studied academic material more creatively and critically. 
+A lot of research is currently being done and has been done in the field of consciousness and intelligence. These topics have been looked at from many different perspectives, which creates a lot of space to revolve in. By studying the existing theories closely and using the accumulated knowledge as well as the common sense approach, we are able to draw conclusions about intelligence and its essence, which brings us closer to the final definition.  
+Enquête 
+As common sense is a type of judgement that is shared by a lot of people, we would have to actually test if our commonsensical knowledge claims are actually shared with other people. This is crucial as in the course of deepening one's knowledge on a certain matter, some facts unconsciously get labeled as evident and need no other justification. In order to avoid this, we have decided to hold an enquete in our school, which was to be answered by students of different ages from 11 to 19 and of different levels of education (VWO, HAVO, MAVO). The choice of questions for the enquête was aimed at figuring out whether people generally agreed on the facts that: 
+●	Humans are intelligent. 
+●	Animals (or at least some) are intelligent. 
+●	Systems of individually intelligent entities can also be labeled as intelligent. 
+●	Computers mostly cannot be considered intelligent. 
+The results of the enquête have proved our hypotheses to be correct and the statistics have been converted into pie charts that clearly show the distribution of opinions.  
+Discussions 
+Another step to reaching our objective is to reach understanding between people on what intelligence actually is. Therefore, during the half a year that we have been working on this project, we have had many discussions with different people on the subject of our research. 
+This has let us to reach a deeper understanding of what people actually stumble upon in their view of intelligence and in their opinion on the current movements in this academic field. 
+Some of the people, that we had a discussion with, include: 
+●	Arseniy Korobchenko (Maxim’s stepfather) 
+●	Ksenia Kuznetsova (Maxim’s mother) 
+●	Konstantin Velli (Maxim’s father) 
+●	Maria Velli (Maxim’s stepmother) 
+●	Marcel Dikstra (Sieds’ father) 
+●	Annelet Lykles (Sieds’ mother) 
+●	Jaco van Gorkom (a teacher that Sieds knows through his dad)  
+●	Katrin Bahchisaraytseva (our friend) 
+●	Ger van Berlo (our teacher of Dutch language and mentor) 
+●	Felix Spee (our teacher of Biology) 
+●	Jaron Schoone (our teacher of Philosophy and our supervisor) 
+Interviews 
+Since we have eventually used some complicated neurological theories that are currently in development, we have decided to also contact the authors, critics and supporters of these theories. This theory specifically being the Integrated Information Theory, we have reached out to scientists, who have shown interest, posed critique and gave positive feedback to the theory. 
+These people are: 
+●	Giulio Tononi, MD, PhD, Professor, Director of WISC -  Author of the IIT. (participant of a panel debate on the IIT) 
+●	David Chalmers, Professor Of Philosophy - supporter of the IIT. (participant of a panel debate on the IIT) 
+●	Prof. Max Tegmark, Dept. of Physics, MIT - a profound writer on the topic of Artificial Intelligence.  
+●	Masafumi Oizumi, Manager Araya Inc. Advanced Technology Department Research & Development Group - a co-author of the IIT. 
+●	Larissa Albantakis, Associate scientist at Wisconsin University - a co-author of the IIT. (participant of a panel debate on the IIT) 
+●	Federico Faggin, an Italian physicist, inventor and entrepreneur, University of Padua - a critic of the IIT. (participant of a panel debate on the IIT) 
+●	George Musser, Contributing Editor at Scientific American and Nautilus magazines - a critic of the IIT. 
+We emailed them after finishing our definition so as to get their feedback on it as well as our interpretation of the IIT and other relevant theories. The questions that we asked them were: 
+●	Do you think we can approximate the intelligence of a system using phi? 
+●	If you have the time, would you care to look at our paper (p.12 & 13) and tell us what you think of our explanation of the measurement of phi: whether it is incomplete, too vague or just plain wrong? 
+●	Again, if you have the time we would really appreciate if you could take a look at our final definition of intelligence based that we have dubbed functionalism, as stated below and on page 15 of the paper. As well as sharing your general opinion of the topic so that we could reflect on our own understanding of it.  
+Unfortunately, very few of the people have actually ended up responding to our email. But we would specifically like to thank Larissa Albantakis for providing us with an exhaustive answer and constructive critic and advice concerning our research. 
+For the full texts of the responses, see Appendices section of the paper. 	  
+1 - Intelligence for dummies 
+On our journey to find a satisfying theory of intelligence we have come across a number of existing theories as well as having come up with a few of our own. Each manage to solve a particular aspect of defining intelligence but all come with their own set of problems, often philosophical in their nature. In the following chapters we will be exploring these different theories of intelligence. 
+1.1 - IQ tests as a way of measuring intelligence  
+As far as discussing intelligence is concerned, it is quite often automatically connected with the topic of IQ tests (Linda, 1994). Genuine interest and the urge to compare makes people inquire Google about the IQ of Bill Gates and Steve Jobs. In this subchapter the history and the essence of IQ tests will be discussed. 
+1.1.1 - A short history 
+1.1.1.1 - First IQ test 
+In 1912 William Stern coined the term “Intelligenzquotient” 	- IQ,  which was one of the first steps in the study of psychometrics (a study concerned with psychological measurement). His vision on this topic was that the IQ of a person was the proportion between that person’s mental age and chronological age multiplied by a hundred (Stern, 1912, pp. 48–58). There are different ways to measure your mental age, many of which can be found on the internet, but just for example if my little sister, who is 7 years old, would be measured to have a mental age of 10, then her IQ would hereby amount to 170 · 100 = 142. 
+1.1.1.2 - G-factor 
+Next big step in the development of the IQ tests was with the development of the term g-factor, which was in turn coined by an English psychologist Charles Spearman in 1904 (Spearman, 1904, pp. 201–293). He noticed that there existed some sort of correlation between the performance of school students in different school subjects. Curious about the root of this phenomenon, he was the first psychologist to execute an analysis on the correlations of performance in different cognitive tasks. The result of this analysis was the variable, called “g-factor” or “general intelligence”	, which summarized those correlations (Spearman, 1907, pp. 61–68). Hereby the understanding of intelligence was already being spread over a number of abilities of a person, but still not letting go of the will to unify the different types of intelligences into one variable. 
+1.1.1.3 - Cattell–Horn–Carroll theory 
+After a debatably decadent period in psychology during the World War I, Raymond Cattell returned to the g-factor, stating that there were two types of cognitive abilities (Cattell, 1971). One of these two factors, Fluid Intelligence (Gf), is involved in tasks in which relatively little advantage accrues from intensive or extended education and acculturation; the other one, Crystallized Intelligence (Gc), represents tasks in which either the content or the operations involved depend on education and acculturation (Stankov, 1978). Later John L. Horn expanded the theory to ten broad factors (Horn & Cattell, 1966). And John B. Carroll (Horn & Cattell, 1966) proposed a hierarchy within the categories of intelligence. He stated that there were three levels - three stratum to the model (Carroll, 1997, pp. 122–130). The first one being specific narrow abilities, like induction and spelling. The second one comprising broader abilities, like the aforementioned Fluid and Crystallized intelligence. And the third stratum is the general intelligence. The theory, being a combination of works of three different psychologists, inherited a name of all three of them, and has later influenced most of the modern IQ tests.  
+1.1.1.4 - Binet-Simon Intelligence Scale 
+In 1905 a French psychologist Alfred Binet and his student Theodore Simon were asked by the government to develop a test to detect both outstandingly intelligent and mentally retarded children in order to assign them to different educational institutions. The factors on which the grading of children was based on were knowledge, quantitative reasoning, visual-spatial processing, working memory, and fluid reasoning. Besides, the developed scales were also based on age. (Binet & Simon, 1916) At that point it earned little international recognition and use due to the lack of the possibility to measure and compare the produced results. In 1916 Lewis M. Terman from the Stanford University revised the Binet-Simon Scale and combined it with the aforementioned Stern’s Intelligence Quotient, which fixed the contemporary problem of the scale and popularised it, from that point on by the name of Stanford–Binet Intelligence Scales (Terman & Merril, 1920). 
+1.1.1.5 - Wechsler Intelligence Scale 
+After the popularization of the Stanford-Binet intelligence Scales a psychologist named David 
+Wechsler published (Wechsler, 1955) a scale that was very different from the Binet-Simon Scale. Wechsler appealed for the correction of the biggest flaws of the Binet-Stanford Scale, them mostly finding the roots in the ignorance of the non-intellective factors in the measurement of intelligence. The Binet-Stanford for example "did not consider that intellectual performance could deteriorate as a person grew older", neglected such things as lack of confidence, low level of concentration etc. (Kaplan & Saccuzzo, 2010) The biggest problem was that the Stanford-Binet Scale was specially created for measuring children’s intellectuality. Herewith Wechsler stated that it was not valid for adults. The biggest change that Wechsler brought into the frame was dividing the unified score into several categories and implementing a point scale (the modern way of quantifying IQ) instead of an age scale. 
+1.1.2 - IQ tests: the problem 
+1.1.2.1 - Circular reasoning 
+“How does the validity of standard IQ tests get measured? The validity of these tests is measured by the fact that they claim to measure what they measure. That is, the tests are designed to define, measure, as well as assess their own validity to measure the very things the tests say are the things they measure. In sum, it is the tests that define and measure what they say is intelligence and it is the tests that define and assess what they say is their own validity” (Estep, 2006). In this circularity of the theoretical basis for the tests another important problem can be drawn. The fact that the IQ tests are based on numerous prejudiced, uncritical assumptions, methods and concepts (Estep, 2006) raises many questions and calls upon a very critical view on the essence and validity of the tests as a whole. 
+Importance of defining intelligence 
+This further incites the urgeness of the search for the correct definition of intelligence as this would be one of the ways of, to some extent, abolishing the subjectivity of the tests and creating a more reliable scale and system of measuring the intelligence of a human being. 
+1.1.2.2 - Anti-anthropomorphism 
+One of the biggest faults of these tests is the fact that they have been developed to only test the human intelligence. A lot of research has been made into animal cognition and intelligence, many alternative tests have been developed (e.g. Du, Mahdi, Paul, & Spetch, 2016) and with almost a hundred years of scientific experience behind it is becoming easier and easier to have a discussion, comparing the intelligence of various animal species to those of people. On the other hand, the conceptual essence of animals being intelligent or conscious is a very controversial topic. A lot of people have a problem with comprehending this concept on account of it being counter-intuitive and sometimes also unethical (Enquête, Fig. 2) 
+ 
+  
+Fig. 2. “Do you think that animals can be intelligent?” question from the “Defining intelligence” enquête (Appendix B). 
+Importance of defining intelligence 
+Since the common sense approach would require us to not forget all creatures - big and small, it would be crucial to find an appropriate definition of intelligence, that would be able to fix the problem of the exclusion of animals from the view of the theories of intelligence. 
+1.1.2.3 - Simple-mindedness 
+And nonetheless, on a daily basis people are amazed at their cats opening doors, rats solving labyrinths and crows finding a way out of a very tricky position. We use the word intelligence with all innocence, ignoring the high complexity and debatability of the topic. In order to understand the problem with IQ tests measuring something that is not even defined, the term “intelligence” will further be put subject to disputation by various scientific theories and afterwards criticised based on some assumption, even outermost logical, being anti-common sense.  
+1.2 - Philosophy behind intelligence and consciousness 
+Since intelligence and consciousness are extremely difficult, debatable topics in various fields of philosophy as well as biology and computer sciences, we would like to invite you to enter the realm of metaphysics and emergent properties with us in order to further understand the critique and the attempt to define intelligence by means of common sense. 
+1.2.1 - Dualism 
+1.2.1.1 - Famous supporters 
+For a long time this belief was perceived as a scientific one, having a lot of supporters and logical explanations that could not find their refute in the scientific world. The belief that the mind and body are separate and that the mind is non-physical have found their ways into the minds of such philosophers as Plato, who explained it with his allegory of a cave, coming to the conclusion that there are immaterial “forms” of objects and the material “shadows” of those objects that humans can perceive (Ferguson, 1922). And Descartes who elegantly performs a certain amount of steps in his doubt experiment, subsequently to which he draws the conclusion of “Cogito ergo sum”. This conclusion, in his case, bears the predicative notion that human’s body is not one with the mind (Descartes, 1984, pp. 1–62). 
+1.2.1.2 - Concerning intelligence	 
+As far as intelligence is concerned, the separability of mind and body would mean that intelligence does not have to per se be intrinsic of an entity, but rather be caused by the mind, or the soul of that entity. This, in turn, leads to a row of assumptions made in regards of intelligence as a whole, namely either suggesting the existence of a mind for anything that might be considered to have any type of intelligence or suggesting that only some things can be considered to have a mind. That in turn leads to a question, which entities can then be considered intelligent or mindful.  
+1.2.1.3 - Critique	 
+Although there are a lot of arguments for and against the mind-body problem, what is of genuine interest in the frame of this research is how the body and mind would be able to communicate with each other. Considering that it is against common sense for something immaterial to affect the material things as it would lead to concepts comparable to those of abilities of psychics in communicating with the dead, the whole essence of supposing the truthfulness of dualism is looked skeptical upon in the frame of this research. 
+1.2.2 - Panpsychism 
+Panpsychism in its literal translation would mean “everything has a mind”. This theory is often ridiculed because of ascribing some kind of mental capabilities to even elementary particles. So an electron is thought to be able to have tendencies towards middle-life crisis etc. However, this is incorrect. There are two types of panpsychism, the first being Pancognitivism. This theory states that indeed everything has a mind, but it is scarcely taken seriously in philosophy. The second one is Panexperimentalism. This theory, in turn, states that conscious experience is fundamental and ubiquitous (Goff, Seager, & Allen-Hermanson, 2017). 
+This second theory about experiences is no longer so absurd and against common sense. The notion that electrons can think might be weird, but the notion that they might be experiencing something is not so implausible. (Chalmers, z.d.) 
+1.2.2.1 - Concerning intelligence 
+This theory also creates a good foundation for the theories studying the emergence of consciousness in, for example, the human brain. The fact that consciousness exists on any level of complexity of entities does not beg for explanation in case the fundamental particles themselves are conscious and only cooperate in creating a more complex consciousness with more complex experiences. This concept will further be used as the principal predicate of the Integrated Information Theory (see Chapter III). 
+1.2.2.2 - Critique 
+Although Panexperimentalism might appear more plausible by means of common sense than Pancognitivism, it still remains difficult to accept as it would involve believing or assuming the presence of something “more” inside an entity than the entity itself. These beliefs are connected with the beliefs in “breathing life into a lifeless thing” and the presence of spiritual essence within entities. Call it aura or anything else, it can be considered hardly scientific and thereby out of range of the scientific reasoning by means of common sense. 
+1.2.3 - Monism 
+In philosophy the term monism can be applied to any theory that states the oneness of a concept. The interesting concept in the to-be-made case of intelligence, is of course the monism of the existence of the mental and the physical. In contrast to Dualism there are three big branches of Monism that drastically vary in their vision of the topic: Physicalism, that states that everything is physical. Idealism, that states that everything is fundamentally mental. And Neutralism, that states that everything is neutral and the correlations between the neutral are responsible for forming both the mental and the physical. (Schaffer, 2014) 
+1.2.3.1 - Concerning intelligence 
+Your stereotypical scientist, who is busy with hitting elementary particles against one another the whole day long, would probably state that the atoms that he is hitting against each other are material and our consciousness arises from a very intricate network of neurons communicating between themselves - that would be Physicalism. Idealism would fundamentally mean the emergence of consciousness from consciousness as a basic conviction, which again connects it with panpsychism. Neutralism resembles the belief of Property Dualism a lot as they both state that there is a sort of “medium” that connects the physical with the mental. As far as consciousness and intelligence are concerned, that would mean that a brain’s emergent property is consciousness.  
+1.2.3.2 - Critique 
+Idealism can be declared as dubious as it leads to a variety of psychological problems, which root from the metaphysical scepticism. This is an anti-common sense notion that everything existing around you is immaterial. Neutralism also states something about the unempirical connection between the two worlds. The problem of explaining how neutral matter forms mental entities forms a conundrum, leaving the post of the more common sense explanation to the Physicalism. The problem of Physicalism is in turn explaining and finding the step from unconscious to conscious, for example in the number of neurons that make something conscious. (Schaffer, 2014) This concept is also further explained in Chapter III. 
+1.2.4 - Free will 
+Free will is the ability to choose between different possible courses of action unimpeded 
+(Wikipedia contributors, 2018). There are three ways to look at Free Will - Determinism, Libertarianism and Compatibilism. Determinists believe, for different reasons, that an agent does not have influence on the decision-making process as it is predetermined. Libertarianism on the contrary believe that in any decision-making process an agent is capable of making multiple different decisions under the same given circumstances, thereby not being predetermined. Compatibilists believe that the dichotomy of Free Will is false and believe that the two can exists simultaneously without logical inconsistency (O'Connor & Franklin, 2018). An example of such belief is for example the quote of Arthur Schopenhauer   "Man can do what he	 wills but he cannot will what he wills." Thus he states that one can be free of determinism on the level of decision-making, but not in the process that leads to decision-making.  
+1.2.4.1 - Concerning intelligence 
+Some definitions of intelligence in which free will is required are ones where intelligence is the ability to come up with something unique, something never thought of before and not merely some physical process that happens to produce an end result.  
+1.2.4.2 - Critique 
+The problem with using free will in the definition of intelligence is that it is very narrow, a lot of animals will not be considered to be intelligent because, based on arbitrary convictions we have about them, we do not consider them to have free will. The example of our slime mold will not have free will, though I suspect most people will be able to live with this fact. Also important to note is that computers, until they become conscious and have free will, cannot be considered to be intelligent, even if they can already mimic human behaviour (Enquête, Fig. 3). Other problems with using free will in our definition lies in the fact that it takes free will for granted though perhaps we should not be too quick to jump to that conclusion. There are a lot of arguments to be made against free will, certainly if you do not consider the existence of a soul or a mind separate from the body and you believe that you are just your brain. Then it easily follows that since the mechanism of your brain are governed by the laws of nature such as chemical processes, it is these chemical processes governing you. (Hoefer, 2016) 
+  
+Fig. 3.  “Do you believe that things like computers and smartphones can be intelligent?” question from the “Defining intelligence” enquête (Appendix B). 
+ 
+2 - Requirements for a definition of intelligence 
+2.1 - Common sense 
+Starting from scratch, where would we start? How do we take a common sense approach to defining intelligence? We could start by considering the types of things we consider to be intelligent and listing some of the properties that all of these intelligent systems seem to share. If there seems to be some common trait that all of these intelligent systems share we can attempt to formulate a definition and subsequently apply this definition. We do this by trying to think of instances that either are intelligent and do not meet our definition or instances that are not	 intelligent but do manage to meet the definition (National Science Foundation, n.d.). 
+2.1.1 - Centralized and decentralized intelligence 
+  
+Fig. 4. “Do you think that animals can be intelligent” question from the “Defining intelligence” enquête (Appendix B). 
+ 
+First to address the apparent examples, it is commonly perceived that all organisms that have a reasonably sized brain can be considered intelligent (Enquête, Fig. 4). It might be beneficial to explain how the brain works (according to Pocock & Richards, 2006) such that we might be able to reduce the working of it to a few key components that are shared by all intelligent systems 
+●	Brains consist of neurons, these neurons can receive electrical pulses from other neurons and receptors located throughout the body. These electrical pulses cause signaling molecules to be released that subsequently set of a chain of events that can lead to things ranging from the neuron firing to it making some new neighbours by forming new connections. Neurons are not only affected by 
+electrical signals, but also by a bunch molecules ranging from small to large, simple to complex, that have effects just as varying if not more so.  
+●	Brains do not work alone, there are a whole number of hormone producing organs directly and indirectly affecting it as well as ofcourse all of your senses and muscles that your brain receives from, processes and sends signals to.  
+●	Brains are compartmentalised, they consist of of many different parts that each have their own specific function, such as parts dedicated towards logic thinking, language processing and motor functions, however essentially no part of the brain can function on its own 
+●	Brains grow, they constantly form new connections and adapt to their surroundings in order to be better suited to deal with them.  
+An example where intelligence is controversial can be seen in slime molds, these are a type of single celled organism that are able to identify nearby food sources and form very intricate and efficient networks between these food sources. When left to grow in a setup where the food sources in the petri dish resembled Tokyo and its nearby cities, in a matter of hours the slime mold produced a network almost identical to the actual Tokyo railway system that engineers have spent decades optimising  (Tero et al., 2010). The slime has managed to find its way through mazes (Nakagaki, Yamada, & Tóth, 2000) and is able to remember where and when it might be exposed to factors that slow down its growth such as cold so that it can deal with these factors in advance. It is able to accomplish all this without a central intelligence (Saigusa, Tero, Nakagaki, & Kuramoto, 2008). 
+  
+Fig. 5. “Do you think this slime mold should be considered at least have some kind of intelligence?” question from the “Defining intelligence” enquête (Appendix B). 
+ 
+2.1.2 - Conceptual comprehension problems of the general public 
+In our various discussions with teachers, family members and friends we have uncovered that the critique as to why this slime mold should not be considered intelligent rests on the fact that the slime mold is not aware of the problem it is trying to solve. It does not understand what an efficient network it is making, a slime mold just… does what it does. A lot of people find this consciousness to be a prerequisite of intelligence. In their opinion intelligence requires awareness of the problem. The solution it comes up with should also be unique, come from the inside, thought of by one’s self so to say and not merely a physical process (Enquête, Fig. 5). This sounds an awful lot like consciousness or a type of free will. Therefore it may be important to look at various theories of consciousness and see how they may be applicable to a theory of intelligence. Critical to know however, is that both intelligence and consciousness are not well understood phenomena and that the theories (technically hypotheses) we will discuss are by no means scientifically proven and remain controversial. 
+3 - Other possible theories of intelligence 
+3.1 - Integrated Information Theory 
+3.1.1 - Phi 
+The last theory about consciousness we want to discuss, and the one we believe to be most applicable to intelligence, goes by the name “Integrated Information Theory”, henceforth referred to as IIT. This theory states the consciousness of a system can be measured with phi (φ). In simple terms phi depends on the information a system has about itself. (Mørch, 2017) 
+ 
+“To measure information of this kind, we ask: how much can we know about the previous and next state of the system by looking at the state of the system right now? For example, the current state of a typical human brain can tell us a lot about what that brain looked like a 
+moment ago, and what it will look like in the next moment. There are a limited number of previous brain states that could possibly have caused its current state, and a limited number of future brain states that it could possibly cause.”  
+(Mørch, 2017) 
+ 
+3.1.2 - Integration 
+Phi also depends on the how integrated this information is with each other, information is considered to be integrated when it is very interconnected. Taking the brain as an example, neurons are all very interconnected as every neuron is connected to many others, the state of any neuron depends on that of a lot of other neurons (Mørch, 2017). A good measure of this interconnectedness is splitting this system in two and looking at the information of the individual systems, if both systems combined have the same amount of information as the original system than the whole system is not very integrated. However if instead the new systems have virtually no information then that means that they were very depended on each other and thus very integrated. 
+3.1.3 - Concerning intelligence 
+So how may IIT be applicable to intelligence? Measuring the data, or information processed by any system, which is kind of what phi is, might give us a good measurement of intelligence the same way the computing power of a computer is often given in the amount of calculations it can perform. There are however a few problems with this approach. Taking computers as an example again, the number of calculations performed does not necessarily equal the amount of work done by a computer since the efficiency of the algorithm used to perform the calculation and the architecture of the processor matter greatly for how many calculations are needed to solve a certain problem. The question we are asking here is: if, say, I was asked to solve a particular mathematical problem, I go and use a number of complex formulas to eventually derive my answer, my partner here however realises that there is a single simple formula that can be used to get to the answer in a single calculation. Who is more intelligent in this case? Am I, because I solved a number of very complicated calculations or is my partner, because he did so more efficiently? Or are we both just as intelligent for achieving the same result? 
+3.1.4 - Critique 
+Even though we believe there to be a correlation between the level of consciousness or phi of a system and its intelligence we do not believe this to be a causal link. The phi of a system can give us an idea of its intelligence but does not provide a direct measurement of it. 
+3.2 - Functionalism 
+3.2.1 - Is it really the thought that matters? 
+Going back to the example of a slime mold we gave earlier, we again run into the problem we had with IIT - the one about the mathematical problem and whether me or my friend was more, less, or equally intelligent for solving the same problem but more efficiently. Certainly if a human was able to, in under a day, optimize the Tokyo railway system, like the slime mold did, he or she would be considered to be hyper-intelligent. And yet, beyond being able to solve mazes and for complex efficient networks, this slime mold cannot really do much else and this certainly makes it less intelligent than humans according to common sense. But we cannot deny that it has at least some sort of intelligence. The question here is if it really matters how the brain or this slime mold works if they are able to achieve the same result. This leads us to our next way of defining intelligence, one based on the concept of functionalism. 
+3.2.2 - The problem of a problem 
+Our functionalist definition of intelligence states that the intelligence of a system is measured by the difficulty of the problem that it is able to solve as well as the number and types of problems that it solves. The problem with this theory is that it is hard to quantify. This is because it is hard to say that certain types of problem solving are objectively better than others. Now, optimising the Tokyo railway system is surely more impressive than simply optimising a network between some randomly placed food sources. From the point of view of the slime mold, it is however, still doing the exact same thing. It is us that attribute the value of optimising the Tokyo railway system to whatever it is that the slime mold is actually doing. Here we realise the importance of objectively looking at the “value” of the problem that the slime mold actually solved, we believe this to be through some mathematical lens but are unsure what this exactly would encompass. Attempting to do so brings along a whole host of other problems such as: what is a “problem” in a mathematical sense? Is doing what the slime mold does solving one problem or many? Is the difficulty of a mathematical problem the smallest number of calculations required to perform it?  
+3.2.3 - Subjectivism of quantification 
+We believe that the answers to these questions might not actually matter. This is because we do not feel the need to objectively quantify intelligence. This might actually be perfectly in line with the common sense approach we are taking, because the term intelligence as we think of it is not an objective linear scale. We have already discussed the problem with IQ test, for example. By looking at some real world examples, we find this to be exactly the case. If we look at two people who we would all consider to be intelligent, Albert Einstein and Ludwig van Beethoven, can you objectively say that one of them is more intelligent than the other? They are both very intelligent within their domain, but is uncovering the workings of reality more impressive than having such a deep understanding of how we perceive sounds and being able to manipulate them such that you evoke emotions strong enough to make someone spontaneously cry? Your answer to this question probably depends on how much you value physics or classical music. 
+ 
+Now, the fact that a physicist does not necessarily have to be more intelligent than a musician adheres to common sense. However, a moose or a dolphin being more intelligent than a human does not. Therefore we must at least come up with some way to measure intelligence using this definition, even if that be a very general one. The one we have come up with allows there to be many types of intelligence, or problem solving, we consider the more abstract types of problem solving to display a higher level of intelligence. We define the level of “abstractness” by how far a concept is removed from tangible reality and exists more as a concept in our mind. For example, solving a maze is not very abstract because it is based on a lot of physical parameters. However, do not be fooled into thinking that because of this physicists are not very intelligent because their field is concerned with describing reality since the act of describing the nature of reality as mathematical formulas is still an abstract one. Say, for example, that you are asking a bird to divide the food that it has gathered between its youngs, it would not have any problem doing this. Now ask it to divide 6 by 2, a bird would be unable to do this because this task requires you to understand certain abstract mathematical concepts like units “numbers” and “divide”.  
+ 
+We are again still unsure about the specifics types of problem solving and their level of abstractness. However, with this new part added to our definition humans would at least be more intelligent than moose. (Though dolphins might still be smarter than us, “So long and thanks for all the fish”).  
+ 	  
+Conclusion 
+In this paper we set out to find a definition of intelligence by means of common sense. We based our approach on the fact that the concept of intelligence is not a physical, tangible one, but one that exists only as an abstract concept within our minds. Therefore any definition, that we come up with, must, to some extent, satisfy the concept of intelligence that is commonly shared in our society. Hence, the chosen approach was to define intelligence by means of common sense.  
+In our attempt to understand what exactly this concept of intelligence entails, we started by looking at the things we consider to be intelligent and why we consider them to be intelligent. We first considered the obvious example of defining and measuring intelligence, the IQ test, but quickly came to the conclusion that this way of defining intelligence was flawed and a new theory was necessary. We noticed that a lot of people, when we asked for their opinion, would demand a system to be conscious or even have free will prior to it being called intelligent. Subsequently, we discussed various theories of consciousness in connection to intelligence. We also discussed the theories of dualism, panpsychism, monism and free will. Most of these theories appeared to be unreliable due to the highly anti-common sense notions that they rest upon or declare within the theories.  
+Certainly the most interesting, yet the most difficult to understand, was the discussed Integrated Information Theory (IIT). IIT seemed promising at first, as it appeared to be a good way to define intelligence. Unfortunately, we came to the conclusion that the consciousness that it measures does not necessarily have a correlation with intelligence. Thereby it was only able to provide an estimate of the system’s intelligence in some cases.  
+The final theory we covered was functionalism. What appealed to us in functionalism is that it is not the least bit concerned with how the mechanisms of a system work but focuses on the results that the system produces. We quickly found that it is very hard to objectively measure intelligence using this theory. As a product of our thinking process, we concluded that the common sense approach would require at least some means of quantifying intelligence, as the common sense still enables us to make a distinction between the level of intelligence of a human and that of a moose or other animal. We succeeded in making this distinction by stating that different types of intelligence necessary for problem-solving also have different levels of abstractness and difficulty. Thus, our final definition is: 
+ 
+“The intelligence of a system is measured by the difficulty, abstractness and variety of problems it is able to solve” 
+Discussion 
+IIT or Consciousness as a measure of intelligence 
+In order to get some feedback on our thoughts on IIT as a mean to measure intelligence we have reached out to a number of proponents (and opponents) of IIT. The answers we have received varied in length. Dr. David Chalmers, famous for his research into consciousness and the one who first coined the term “hard problem of consciousness”, answering with a definite “I do not think phi is a measure of intelligence.” This on one hand supports our claim that phi cannot not be used to measure intelligence, but on the other hand seems to refute the idea that phi correlates with intelligence at all. Another response that we got, the one from Dr. Larissa Albantakis, might have better formulated what Dr. Chalmers meant. She explains that it is possible for a systems to be intelligent but have virtually no consciousness, an example being supercomputers, since a computer does not have to be aware of the task it is solving. Or for a system to be very conscious but not intelligent, such as newborn babies. However she claims that for so-called “evolved”, or biological systems, intelligence and consciousness do correlate quite well.  
+ 
+“IIT does provide some explanation for why evolution would promote intelligent systems that are also conscious and why evolved brains have a very different structure from engineered 
+computers. The answer is that integrated brains are more efficient than brains with a lot of 
+separate, parallel modules. (The latter are easier to understand from the outside and this is why engineered systems tend to be built in a modular way). So in this sense you could use phi as a 
+measure for whether a system performs a task "intelligently" or "like a machine that is going 
+through the motions". You would have to pair the integrated information measure with a 
+measure of how well the system is performing the tasks. And as you can see in the first slide, for 
+biological systems that evolved, the prediction is that PHI should correlate well with intelligence”  
+ 
+  
+ 
+You might remember the analogy we used in the “Concerning intelligence” paragraph of the IIT subchapter, where we equated the consciousness of a system to the computing power, saying that the resulting intelligence was still dependant on the efficiency of the calculations. Albantakis confirms this by saying “You would have to pair the integrated information measure with a	 measure of how well the system is performing the tasks.”  For a group of systems that is equally efficient at performing tasks, such as all brain systems, consciousness does provide a linear measurement of intelligence. She also includes a nice graph to illustrate this fact. The takeaway is that we can only compare consciousness and intelligence within a particular category of systems.  
+Functionalism 
+Albantakis was kind enough to go outside her subject matter and answer some questions unrelated to IIT made some helpful comments regarding our functionalist theory of intelligence. She agrees with our functionalist theory of intelligence but does point out that our definition is quite similar to intelligence tests since those also test using varying levels of abstraction. The difference of course being that intelligence tests try to quantify intelligence whereas we simply want to be able to make simple statements regarding relative intelligence of for example animals and humans, as we believe this notion is supported by the common sense view of intelligence. 
+ 
+Our definition of intelligence is not a measurement system or a step by step guide on how to objectively measure intelligence. It is a guide to understanding what intelligence is in a logical sense. It also attempts to provide a framework through which you can estimate the intelligence of a system. 
+Advice to further researchers 
+●	Look at the possibilities of including such commonly perceived characteristics of intelligent entities as free will and the ability to learn. 
+●	Further investigate in how far the notion that free will is necessary for intelligence is prevalent in the concept of intelligence, add it as a question to the enquête. 
+●	For different purposes, it would be sensible to try to describe the process of learning as a process of improving one’s intelligence. This would create a possibility of saying more about the development of an entity in the course of its life-cycle as well as the development of biological entities in the course of evolution. 
+●	Attempt to create a more clear and thorough scale of abstractness and difficulty of tasks. Possibly aiming to objectively measure the intelligence of any entity. An example would be a maze, which would be designed in such a manner, that, by completing, both a human and a slime mold would also be easier to commonly perceive as equally intelligent entities. 
+●	Hold an enquête with more people to boost the accuracy of the degree to which the discussed concepts adhere to common sense. 	  
+ 
+Endnotes 
+Appendices 
+Appendix A 
+“Defining intelligence” enquête https://goo.gl/forms/1cNBMwT0D56gyP0U2  
+ 
+Appendix B  
+Spreadsheet with responses to the “Defining intelligence” enquête 
+https://docs.google.com/spreadsheets/d/1tD49FLBadKAePMHyosLVluBj_UbXPiqBYE2-CsiJjx8/ edit#gid=1674579459 
+ 
+Appendix C 
+The text of the response letter from David Chalmers  
+  
+ 
+Appendix D 
+The text of the response letter from Larissa Albantakis 
+ 
+  
+Sources 
+1.	Binet, A., & Simon, T. (1916). The Development of Intelligence in Children: (the	 Binet-Simon Scale). New York, NY, USA: Williams & Wilkins. 
+2.	Carroll, J. B. (1997). The three-stratum theory of cognitive abilities	. New York, NY, USA: Contemporary intellectual assessment: Theories, tests, and issues, Guilford Press. 
+3.	Cattell, R. B. (1971). Abilities: Their Structure, Growth and Action	. Boston, USA: Houghton-Miffin. 
+4.	Chalmers, D. (z.d.). Integrated Information Theory: Some Philosophical Issues 
+	[Keynote]. Geraadpleegd van http://consc.net/slides/iit.pd	f  
+5.	Descartes, R. (1984). Meditations on First Philosophy, in The Philosophical	 Writings of René Descartes. Cambridge, United Kingdom: Cambridge University Press. 
+6.	Du, Y., Mahdi, N., Paul, B., & Spetch, M. L. (2016). Cue salience influences the use of height cues in reorientation in pigeons (Columba livia).. Journal of	 Experimental Psychology: Animal Learning and Cognition, 42 (3), 273–280. https://doi.org/10.1037/xan0000106  
+7.	Estep, M. (2006). Self Organizing Natural Intelligence: Issues Of Knowing,	 Meaning, And Complexity. Berlin, Germany: Springer. 
+8.	Ferguson, A. S. (1922). Plato's Simile of Light. Part II. The Allegory of the Cave (Continued). The Classical Quarterly	, 16 (1), 15–28. 
+9.	Goff, P., Seager, W., & Allen-Hermanson, S. (2017, 18 juli). Panpsychism (Stanford Encyclopedia of Philosophy). Geraadpleegd op 19 oktober 2018, van https://plato.stanford.edu/entries/panpsychism/ 
+10.	Hoefer, C. (2016, 21 januari). Causal Determinism (Stanford Encyclopedia of Philosophy). Geraadpleegd op 19 oktober 2018, van https://plato.stanford.edu/entries/determinism-causal/  
+11.	Horgan, J. (2015, December 1). Can Integrated Information Theory Explain Consciousness? Retrieved October 19, 2018, from https://blogs.scientificamerican.com/cross-check/can-integrated-information-theor y-explain-consciousness/  
+12.	Horn, J. L., & Cattell, R. B. (1966). Refinement and test of the theory of fluid and crystallized general intelligences.. Journal of Educational Psychology	, 57 (5), 
+	253–270. https://doi.org/10.1037/h002381	6  
+13.	Kaplan, R. M., & Saccuzzo, D. P. (2010). Psychological Testing: Principles,	 Applications, & Issues (8th ed.). Belmont, CA, USA: Wadsworth, Cengage learning.. 
+14.	Linda, S. (1994, December 13). Mainstream Science on Intelligence [Editorial]. Retrieved October 19, 2018, from http://www.udel.edu/educ/gottfredson/reprints/1997mainstream.pdf  
+15.	Mørch, H. H. (2017). The Integrated Information Theory of Consciousness | Issue 121 | Philosophy Now. Geraadpleegd op 16 oktober 2018, van https://philosophynow.org/issues/121/The_Integrated_Information_Theory_of_Co nsciousness  
+16.	M Terman, L., & A Merril, M. (1920). Stanford Revision of the Binet-Simon	 Intelligence Tests. Boston, MA, USA: Houghton Mifflin. 
+17.	Nakagaki, T., Yamada, H., & Tóth, Á. (2000). Maze-solving by an amoeboid organism. Nature	, 407	(6803), 470. https://doi.org/10.1038/3503515	9  
+18.	National Science Foundation. (n.d.). What is basic research? Retrieved October 
+	19, 2018, from https://www.nsf.gov/pubs/1953/annualreports/ar_1953_sec6.pd	f  
+19.	O'Connor, T., & Franklin, C. (2018, 21 augustus). Free Will (Stanford Encyclopedia of Philosophy). Geraadpleegd op 17 oktober 2018, van https://plato.stanford.edu/entries/freewill/  
+20.	Pocock, G., & Richards, C. (2006). Human physiology : the basis of medicine	 (3rd ed.). Oxford, United Kingdom: Oxford University Press. 
+21.	Saigusa, T., Tero, A., Nakagaki, T., & Kuramoto, Y. (2008). Amoebae Anticipate Periodic Events. Physical Review Letters	, 100	(1). https://doi.org/10.1103/physrevlett.100.018101 
+22.	Schaffer, J. (2014, 24 februari). Monism (Stanford Encyclopedia of Philosophy). 
+	Geraadpleegd op 19 oktober 2018, van https://plato.stanford.edu/entries/monism	/  
+23.	Spearman, C. (1904). "General Intelligence," Objectively determined and measured. American Journal of Psychology	, 15 , 201–293.  
+24.	Spearman, C. (1907). Demonstration of Formulae for True Measurement of Correlation. American Journal of Psychology	, 18 (2), 61–68. 
+25.	Stankov, L. (1978). Fluid and Crystallized Intelligence and Broad Perceptual Factors Among 11 to 12 Year Olds. Journal of Educational Psychology	, 70(3), 324–334. 
+26.	Stern, W. (1912). Die psychologischen Methoden der Intelligenzprüfung: und deren Anwendung an Schulkindern. Leipzig, Germany: J. A. Barth. 
+27.	Tero, A., Takagi, S., Saigusa, T., Ito, K., Bebber, D. P., Fricker, M. D., . . . 
+Nakagaki, T. (2010). Rules for Biologically Inspired Adaptive Network Design. 
+	Science, 327(5964), 439–442. https://doi.org/10.1126/science.117789	4  
+28.	Tononi, G. (2015, January 22). Integrated information theory - Scholarpedia. Retrieved October 19, 2018, from 
+http://www.scholarpedia.org/article/Integrated_information_theory  
+29.	Verge Science. (2018, May 1). What self-driving cars can learn from brainless slime mold. Retrieved October 19, 2018, from https://www.youtube.com/watch?v=40f7_93NIgA  
+30.	Wechsler, D. (1955). The Measurement of Adult Intelligence. Baltimore, MD, USA: Williams & Witkins. 
+31.	Wikipedia contributors. (2018). Free will - Wikipedia. Geraadpleegd op 17 oktober 2018, van https://en.wikipedia.org/wiki/Free_wi	l 
+32.	Wikipedia contributors. (2018, October 18). Intelligence - Wikipedia. Retrieved 
+	October 19, 2018, from https://en.wikipedia.org/wiki/Intelligence
