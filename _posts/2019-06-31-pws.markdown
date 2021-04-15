@@ -15,6 +15,6 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 --- 
 
-<p style="text-align: center">Written by Maxim Velli & Sieds Lykles, under Supervision of Dr. Daniël Jaron Schoone.</p>
+<p style="text-align: center">Written by Maxim Velli & Sieds Lykles, under Supervision of Dr. Jaron Daniël Schoone.</p>
 <p>We started off with the idea to write an algorithm that would emulate the (quasi?)intelligent behaviour of slime mold (<a href="https://www.youtube.com/watch?v=2UxGrde1NDA">video</a>). But, as we quickly found it, such an algorithm already existed. In the process, however, we got interested in the question of whether such behaviour could be described as intelligent. It turned out to be a much more profound question than we expected and our Profielwerkstuk (Final Research Project) ended up focusing on the deeply philosophical question of: "How can intelligence be defined?" Since both Sieds and I are quite pragmatic people, we aimed at distilling such a definition by means of our common sense. 
 <p style="text-align: center"><a style="text-decoration: none" href="assets/pws.pdf">Read the full version in PDF <u>here</u>.</a></p>
