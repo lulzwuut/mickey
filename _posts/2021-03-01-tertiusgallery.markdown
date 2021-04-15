@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "TERTIUS Gallery Website"
-date:   2021-03-01 01:00:00
-last_modified_at:  2021-03-01 01:00:00
+date:   2019-12-31 01:00:00
+last_modified_at:  2019-12-31 01:00:00
 excerpt: "Project for TERTIUS"
 categories: webdev
 url: 'tertiusgallery'
