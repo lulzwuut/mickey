@@ -8,17 +8,17 @@ categories: webdev
 url: 'tertiusgallery'
 tags:  tertius, gallery, webdesign
 image:
-  feature: terthero.png
+  feature: tertgal.png
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<p style="text-align: center">Website is now live at: <a href="http://gallery.tertius.nl/" style="color: blue; text-decoration: underline;">gallery.tertius.nl</a></p>
+<p style="text-align: center">Website is now live at: <a href="http://tertiusgallery.com/" style="color: blue; text-decoration: underline;">tertiusgallery.com</a></p>
 
-  <div><img style="width: 100%;" src="assets/images/posts/tert1img.png" alt=""></div>
-  <div><img style="width: 100%;" src="assets/images/posts/tert2img.png" alt=""></div>
-  <div><img style="width: 100%;" src="assets/images/posts/tert3img.png" alt=""></div>
+  <div><img style="width: 100%;" src="assets/images/posts/tertgal1.png" alt=""></div>
+  <div><img style="width: 100%;" src="assets/images/posts/tertgal2.png" alt=""></div>
+  <div><img style="width: 100%;" src="assets/images/posts/tertgal3.png" alt=""></div>
 
   
