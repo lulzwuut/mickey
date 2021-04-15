@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Blissful joy of pure ignorance"
+title:  "Defining intelligence by means of common sense"
 date:   2021-04-14 01:00:00
 last_modified_at:  2021-04-14 01:00:00
-excerpt: ""
+excerpt: "Authors: Maxim Veli & Sieds Lykles<br>Supervisor: Dr. J. Schoone"
 categories: writing
 url: 'scifi'
 tags:  romanticism, writing, scifi, philosophy
@@ -13,18 +13,7 @@ image:
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
----
-
-
-Defining intelligence by means of 
-common sense
-  
-Authors: Maxim Veli & Sieds Lykles  
-Class: 6VB 
-Subjects: Philosophy and Biology 
-Supervisor: Dr. J. Schoone 
- 	 
- 
+--- 
 Index 
  
 Index	2 
