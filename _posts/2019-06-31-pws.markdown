@@ -3,7 +3,7 @@ layout: post
 title:  "Defining intelligence by means of common sense"
 date:   2019-06-31 01:00:00
 last_modified_at:  2019-06-31 01:00:00
-excerpt: "Authors: Maxim Veli & Sieds Lykles<br>Supervisor: Dr. J. Schoone"
+excerpt: "Authors: Maxim Veli & Sieds Lykles<br>Supervisor: Dr. J. D. Schoone"
 categories: writing
 url: 'pws'
 tags:  writing, philosophy, intelligence, school
